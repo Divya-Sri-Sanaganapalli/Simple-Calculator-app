@@ -2,4 +2,4 @@
 
 ** Miro Board - User stories & Acceptance criteria **
 
-<img> https://github.com/Divya-Sri-Sanaganapalli/Simple-Calculator-app/blob/main/US%20%26%20AC.jpg
+![alt text](https://github.com/Divya-Sri-Sanaganapalli/Simple-Calculator-app/blob/main/US%20%26%20AC.jpg)
