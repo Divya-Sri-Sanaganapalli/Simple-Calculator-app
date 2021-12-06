@@ -5,4 +5,4 @@ Unit testing framework used - unittest
 
 ** Miro Board - User stories & Acceptance criteria with wireframes **
 
-![alt text](https://github.com/Divya-Sri-Sanaganapalli/Azure-FACE-API/blob/main/FaceLandmarks.png)
+![alt text](https://github.com/Divya-Sri-Sanaganapalli/Simple-Calculator-app/blob/main/US%20%26%20AC.jpg)
